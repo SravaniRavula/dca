@@ -1,0 +1,17 @@
+[
+    {
+        "name": "DCA-Drugs Control Administration.",
+        "admin": "DCA",
+        "address": "A-Block,Lodhi Rd,CGO Complex ",
+        "state": "Vijaywada",
+        "country": "India",
+        "center": ["16.51", "80.64"],        
+        "capital": "admin",
+        "lat": "16.51",
+        "lng": "80.64",
+        "zoomlevel": "10",
+        "iso2": "IN"
+    }]
+
+
+  

@@ -1,0 +1,382 @@
+{
+  "Rti": [
+    {
+      "heading": " RTI ACT",
+      "header": "Right to Information Act",
+      "paragraph": "The information pertaining to Drugs Control Administration at Headquarters level is provided in this book let. The information pertaining to the other offices viz., Assistant Director & Drugs Inspectors is provided by the respective officers. The information as mentioned at para 1.3 above and as stipulated in the Right to Information act is provided item wise in different chapters. The reference made to certain Rules, Manuals and Acts of other Departments issued by Government of Andhra Pradesh or Government of India are quoted since they are applicable to the programmes/terms under reference and available with the concerned Departments."
+    }
+  ],
+  "BannedDrugs": [
+    {
+      "heading": "Banned Drugs",
+      "header": "The following are list of the Drugs, Banned by Govt. of India. If any one found these drugs in the market please inform the nearest Drugs Control Officer.",
+      "detailservices": [
+        {
+          "header": "G.S.R. No. 578 (E) dt 23-07-1983",
+          "paragraph": [
+            { "p": "  Amidopyrine. " },
+            {
+              "p": "Fixed dose combinations of vitamins with anti-inflammatory agents and tranquilizers."
+            },
+            {
+              "p": " Fixed dose combinations of Atropine and Analgesic and Antipyretics."
+            },
+            {
+              "p": " Fixed dose combinations of Strychnine and Caffeine in tonics."
+            }
+          ]
+        },
+        {
+          "header": "G.S.R. No. 793 (E) dt 13-12-1995",
+          "paragraph": [
+            {
+              "p": "Fixed dose combinations of Hydroxyquinoline group of drugs with any other drug except for preparations meant for external use only."
+            }
+          ]
+        },
+        {
+          "header": "G.S.R. No. 1057 (E) dt 03-11-1988",
+          "paragraph": [
+            {
+              "p": "  Fixed dose combinations of Corticosteroid with any other drug for internal use except for preparations meant for meter dose inhalers and dry powder inhalers.[Substituted vide GSR 738 (E) dated 9.10.2009] "
+            },
+            {
+              "p": "   Fixed dose combinations of Chloramphenicol with any other drug for internal use."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "websitepolicies": [
+    {
+      "header": "Website Policies",
+      "subdetails": [
+        {
+          "title": "Terms of Use",
+          "paragraphs": [
+            {
+              "p": "DCA APSC is managing the content of the website."
+            },
+            {
+              "P": "Though all efforts have been made to ensure the accuracy and currency of the content on this website, the same should not be construed as a statement of law or used for any legal purposes."
+            },
+            {
+              "p": "In no event will the DCA APSC be liable for any expense, loss or damage including, without limitation, indirect or consequential loss or damage, or any expense, loss or damage whatsoever arising from use, or loss of use, of data, arising out of or in connection with the use of this Portal."
+            },
+            {
+              "p": "Links to other websites that have been included on this Portal are provided for public convenience only. We cannot guarantee the availability of such linked pages at all times."
+            },
+            {
+              "p": "These terms and condDCAons shall be governed by and construed in accordance with the Indian Laws. Any dispute arising under these terms and condDCAons shall be subject to the exclusive jurisdiction of the courts of India."
+            }
+          ]
+        },
+        {
+          "title": "Copyright Policy",
+          "paragraphs": [
+            {
+              "p": "Material featured on this website may be reproduced free of charge after taking proper permission by sending a mail to us. However, the material has to be reproduced accurately and not to be used in a derogatory manner or in a misleading context. Wherever the material is being published or issued to others, the source must be prominently acknowledged. However, the permission to reproduce this material shall not extend to any material which is identified as being copyright of a third party. Authorisation to reproduce such material must be obtained from the departments/copyright holders concerned."
+            }
+          ]
+        },
+        {
+          "title": "Privacy Policy",
+          "paragraphs": [
+            {
+              "p": "This website does not automatically capture any specific personal information from you, (like name, phone number or e-mail address), that allows us to identify you individually."
+            },
+            {
+              "p": "If the website requests you to provide personal information, you will be informed for the particular purposes for which the information is gathered e.g. feedback form and adequate security measures will be taken to protect your personal information."
+            },
+            {
+              "p": "We do not sell or share any personally identifiable information volunteered on the website site to any third party (public/private). Any information provided to this website will be protected from loss, misuse, unauthorized access or disclosure, alteration, or destruction."
+            },
+            {
+              "p": "We gather certain information about the User, such as Internet protocol (IP) addresses, domain name, browser type, operating system, the date and time of the visit and the pages visited. We make no attempt to link these addresses with the identity of individuals visDCAng our site unless an attempt to damage the site has been detected."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "header": "Hyper Linking Policy",
+      "subdetails": [
+        {
+          "title": "Links to external websites/portals",
+          "paragraphs": [
+            {
+              "p": "At many places in this website, you shall find links to other websites/portals. This links have been placed for your convenience. We can not guarantee that these links will work all the time and we have no control over availability of linked pages."
+            }
+          ]
+        },
+        {
+          "title": "Archival Policy",
+          "paragraphs": [
+            {
+              "p": "DCA APSC specific content published in the DCA AP State Centre Website are generic in nature, having no specific life (Time To Leave). Hence are always live and can be accessible through the website. However, content published under the sections like Events, Tenders, Recruitment and Announcements have a life span and will automatically be moved to the online archival section after the assigned end date (displayed along with each content item)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "BloodBanks": [
+    {
+      "heading": "Blood Banks",
+      "p": "Blood Banks and Manufacturing units",
+      "content": [
+        {
+          "link": "./DOCS/Blood Banks list for DCA site.pdf",
+          "description": "Blood Banks in AP"
+        },
+        {
+          "link": "./DOCS/BLOOD STORAGE CENTRE IN ANDHRA PRADESH_0.pdf",
+          "description": "Blood storage centers in AP "
+        },
+        {
+          "link": "./DOCS/MFG LIST_0_1.pdf",
+          "description": "Manufacturing units in A.P"
+        }
+      ]
+    }
+  ],
+
+  "Clients": [
+    {
+      "heading": " CLIENT’S CHARTER",
+      "detailservices": [
+        {
+          "header": "The Drug Includes:",
+          "paragraph": [
+            {
+              "p": " All medicines for internal or external use of human beings or animals and all substances intended to be used for or in the diagnosis, treatment, mitigation or prevention of any disease or disorder in human beings or animals, including preparations applied on human body for the purpose of repelling insects like mosquitoes  "
+            },
+            {
+              "p": "such substances (other than food ) intended to affect the structure or any function of the human body or intended to be used for the destruction of [vermin] or insects which cause disease in human beings or animals, as may be specified from time to time by the Central Government by notification in the Official Gazette."
+            },
+            {
+              "p": " all substances intended for use as components of a drug including empty gelatin capsules; and"
+            },
+            {
+              "p": " such devices intended for internal or external use in the diagnosis, treatment, mitigation or prevention of disease or disorder in human beings or animals, as may be specified from time to time by the Central Government by notification in the Official Gazette, after consultation with the Board "
+            }
+          ]
+        },
+        {
+          "header": "Drugs regulated By Drugs Control Administration:",
+          "paragraph": [
+            { "p": "Allopathic Drugs" },
+            { "p": " Blood, Blood components, Blood Products" },
+            { "p": "Medical Devices" }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "Objectives": [
+    {
+      "heading": "Objectives of DCA",
+      "detailservices": [
+        {
+          "header": "The Drug Includes:",
+          "paragraph": [
+            {
+              "p": " All medicines for internal or external use of human beings or animals and all substances intended to be used for or in the diagnosis, treatment, mitigation or prevention of any disease or disorder in human beings or animals, including preparations applied on human body for the purpose of repelling insects like mosquitoes  "
+            },
+            {
+              "p": "such substances (other than food ) intended to affect the structure or any function of the human body or intended to be used for the destruction of [vermin] or insects which cause disease in human beings or animals, as may be specified from time to time by the Central Government by notification in the Official Gazette."
+            },
+            {
+              "p": " all substances intended for use as components of a drug including empty gelatin capsules; and"
+            },
+            {
+              "p": " such devices intended for internal or external use in the diagnosis, treatment, mitigation or prevention of disease or disorder in human beings or animals, as may be specified from time to time by the Central Government by notification in the Official Gazette, after consultation with the Board "
+            }
+          ]
+        },
+        {
+          "header": "Drugs regulated By Drugs Control Administration:",
+          "paragraph": [
+            { "p": "Allopathic Drugs" },
+            { "p": " Blood, Blood components, Blood Products" },
+            { "p": "Medical Devices" }
+          ]
+        },
+        {
+          "header": "Objective of the Drugs Control Administration:",
+          "paragraph": [
+            {
+              "p": " To ensure safety, efficacy, purity and quality of Drugs."
+            },
+            { "p": " To prevent consumers from self-medication. " },
+            { "p": " To ensure availability of drugs at authorised prices." },
+            {
+              "p": " To create an awareness about the importance of proper storage of drugs."
+            },
+            { "p": " To eliminate irrational combinations /banned drugs. " },
+            {
+              "p": " To study the problems and suggestions made by the stakeholder."
+            },
+            {
+              "p": " To collect the information in general about the drug trade and take necessary steps. "
+            },
+            { "p": " To prepare policy regarding drug matter." },
+            { "p": " To prevent misuse of Narcotics drugs." }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "News": [
+    {
+      "heading": "Archive for flash news",
+      "p": "Statutes Implemented by Drugs Control Administration",
+      "header": "File:",
+      "content": [
+        { "link": "./assests/link", "description": "d&c act.pdf" },
+        { "link": "./assests/link", "description": "D&Cact2008Amendment.pdf " },
+        {
+          "link": "./assests/link",
+          "description": "Narcotic-Drugs-Psychotropic-Substances-Act-1985.pdf"
+        },
+        {
+          "link": "./assests/link",
+          "description": "Narcotics-Drugs-Psychotropic-Substances-Rules-1987.pdf "
+        },
+        { "link": "./assests/link", "description": "COTA-Act.pdf " },
+        {
+          "link": "./assests/link",
+          "description": "Drugs_PriceControl_Order,1995.pdff"
+        }
+      ]
+    }
+  ],
+
+  "Statue": [
+    {
+      "heading": "Statue Implemented",
+      "p": "Statutes Implemented by Drugs Control Administration",
+      "header": "File:",
+      "content": [
+        { "link": "./DOCS/d&c act.pdf", "description": "d&c act.pdf" },
+        {
+          "link": "./DOCS/D&Cact2008Amendment.pdf",
+          "description": "D&Cact2008Amendment.pdf "
+        },
+        {
+          "link": "./DOCS/Narcotic-Drugs-Psychotropic-Substances-Act-1985.pdf",
+          "description": "Narcotic-Drugs-Psychotropic-Substances-Act-1985.pdf"
+        },
+        {
+          "link": "./DOCS/Narcotics-Drugs-Psychotropic-Substances-Rules-1987.pdf",
+          "description": "Narcotics-Drugs-Psychotropic-Substances-Rules-1987.pdf "
+        },
+        {
+          "link": "./DOCS/COTA-Act.pdf",
+          "description": "COTA-Act.pdf "
+        },
+        {
+          "link": "./DOCS/Drugs_PriceControl_Order,1995.pdf",
+          "description": "Drugs_PriceControl_Order,1995.pdff"
+        }
+      ]
+    }
+  ],
+  "help": [
+    {
+      "subdetails": [
+        {
+          "title": "Help",
+          "paragraphs": [
+            {
+              "p": "Are you finding it difficult to access/navigate through the content/pages of this Portal? This section attempts to help you have a pleasant experience while browsing this Portal."
+            }
+          ],
+          "table": null
+        },
+
+        {
+          "title": "Accessibility",
+          "paragraphs": [
+            {
+              "p": "We are committed to ensure that the site is accessible to all users irrespective of device in use, technology or ability. It has been built, with an aim, to provide maximum accessibility and usability to its visitors."
+            },
+            {
+              "p": "Best efforts have been put to ensure that all information on this website is accessible to people with disabilDCAes. For example, a user with visual disability can access this website using assistive technology, such as screen reader. Users with low vision can use high contrast and font size increase options. This website meets level AA of the Web Content Accessibility Guidelines (WCAG) 2.0 laid down by the World Wide Web Consortium (W3C)."
+            },
+            {
+              "p": " If you have any problem or suggestion regarding the accessibility of this Site, please send a feedback to us."
+            }
+          ],
+          "table": null
+        },
+        {
+          "title": "Screen Reader Access",
+          "paragraphs": [
+            {
+              "p": "Our visitors with visual impairments can access the site using Assistive Technologies, such as screen readers."
+            },
+            {
+              "p": "Following table lists the information about different screen readers:"
+            }
+          ],
+          "table": [
+            {
+              "header": "Screen Reader Information",
+
+              "heading": [
+                {
+                  "h": "Screen Reader"
+                },
+                { "h": "Website" },
+                {
+                  "h": "Free / Commercial"
+                }
+              ],
+              "Paragraph": [
+                {
+                  "p1": "1",
+                  "p2": "GR36000044",
+                  "p3": " SRINIVASA ITC, KOVVUR "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Viewing Information in Various File Formats",
+          "paragraphs": [
+            {
+              "p": "The information provided by this Web site is available in various file formats, such as Portable Document Format (PDF), Word, Excel and PowerPoint. To view the information properly, your browser need to have the required plug-ins or software. For example, the Adobe Flash software is required to view the Flash files. In case your system does not have this software, you can download it from the Internet for free. The table lists the required plug-ins needed to view the information in various file formats."
+            }
+          ],
+          "table": [
+            {
+              "header": "Plug-in for alternate document types",
+              "content": [
+                {
+                  "heading": [
+                    {
+                      "h1": "Document Type",
+                      "h2": "Plug-in for Download"
+                    }
+                  ],
+                  "Paragraph": [
+                    {
+                      "p1": "Portable Document Format (PDF) files",
+                      "p2": "Adobe Acrobat Reader (External website that opens in a new window)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

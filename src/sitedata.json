@@ -1,0 +1,385 @@
+{
+  "Navlink": [
+    {
+      "title": "About",
+      "link": "#dcaaboutus"
+    },
+    {
+      "title": "Services of DCA",
+      "link": "#dcaservices"
+    },
+    {
+      "title": "News & Updates",
+      "link": "#dcanewsupdates"
+    },
+    {
+      "title": "Organization Structure",
+      "link": "dcaorganization"
+    },
+    {
+      "title": "RTI",
+      "link": "dcarti"
+    },
+    {
+      "title": "Contact Us",
+      "link": "dcacontact"
+    }
+  ],
+  "Navlinkdropdown": [
+    {
+      "title": "Public Services",
+      "subnavlinks": [
+        {
+          "subtitle": "Banned Drugs",
+          "sublink": "dcapublicservices/dcabanneddrugs"
+        }
+      ]
+    }
+  ],
+
+  "socialicons": [
+    {
+      "link": "dcahome",
+      "title": "Skip to main content",
+      "iconslink": [
+        {
+          "iconname": "fa fa-instagram",
+          "link": "https://www.instagram.com/"
+        },
+        {
+          "iconname": "fa fa-facebook-f",
+          "link": "https://www.facebook.com/"
+        },
+        {
+          "iconname": "fa fa-instagram",
+          "link": "https://www.instagram.com/"
+        },
+        {
+          "iconname": "fa fa-sitemap",
+          "link": "/dcasitemap"
+        }
+      ]
+    }
+  ],
+
+  "Header": [
+    {
+      "img1": [
+        {
+          "imgsrc": "./images/bannerlogo1.jpg",
+          "imgalt": "logo1"
+        }
+      ],
+      "description": [
+        { "title": "Government Of Andhra Pradesh" },
+        { "title": "Drugs Control Administration" }
+      ],
+      "img2": [
+        {
+          "imgsrc": "./images/bannerlogo2.jpg",
+          "imgalt": "logo2"
+        }
+      ]
+    }
+  ],
+  "menu1": [
+    {
+      "title1": "dcahome",
+      "title2": "dcaaboutus",
+      "title3": "dcaservices",
+      "title4": "dcanewsupdates",
+      "section1": [
+        {
+          "carousel1": [
+            {
+              "img": "./images/carouselimage1.jpg",
+              "imgalt": "First slide"
+            }
+          ],
+          "carousel2": [
+            {
+              "img": "./images/carouselimage2.jpg",
+              "imgalt": "Second slide"
+            }
+          ]
+        }
+      ],
+      "section2": [
+        {
+          "title": "About DCA ",
+          "paragraph": [
+            {
+              "p": " The Drugs Control Administration at the time of inception in the year 1952 was functioning in the Directorate of medical services. The first basic level functionaries sanctioned to this Department were four Drugs Inspectors for implementation of the Drugs and Cosmetics Act, 1940 and Rules made there under (formerly called as The Drugs Act, 1940 and The Drugs Rules 1945) in the erstwhile Andhra State for implementation in Andhra area only. After the formation of separate Andhra Pradesh State in the year 1956 four more Drugs Inspectors were appointed and implementation of this Statute was extended to Telangana Area also."
+            },
+            {
+              "p": "Subsequently, Drugs Control Administration was also entrusted with the enforcement of Prevention of Food Adulteration Act and the Head of the Department was designated as Drugs Controller and Food Health Authority. In the year 1981 the Department of Drugs Control Administration was accorded independent status with a separate Directorate headed by a Director functioning under the Ministry of Medical and Health, Government of Andhra Pradesh."
+            }
+          ],
+          "imgsrc": "./images/cardimg-1.jpg",
+          "imgalt": "image1",
+          "button": "View More",
+          "button_link": "dcaabout"
+        }
+      ],
+      "section3": [
+        {
+          "title": "Services of DCA",
+          "card1": [
+            {
+              "imgsrc": "./images/cardimg-1.jpg",
+              "imgalt": "img-1 ",
+              "description": "Andhra Pradesh functions with the major objectives of providing and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State.",
+              "title": " Blood Banks",
+              "button": "View More"
+            },
+            {
+              "imgsrc": "./images/cardimg-2.jpg",
+              "imgalt": "img-1 ",
+              "description": "Andhra Pradesh functions with the major objectives of providing and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State. ",
+              "title": "NSQ Drugs",
+              "button": "View More"
+            },
+            {
+              "imgsrc": "./images/cardimg-4.jpg",
+              "imgalt": "img-1 ",
+              "description": "Andhra Pradesh functions with the major objectives of providing and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State.  ",
+              "title": "Medical Stores",
+              "button": "View More"
+            }
+          ],
+          "card2": [
+            {
+              "imgsrc": "./images/cardimg-2.jpg",
+              "imgalt": "img-1 ",
+              "description": "Andhra Pradesh functions with the major objectives of providing and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State.",
+              "title": "Jeevandhara",
+              "button": "View More"
+            },
+            {
+              "imgsrc": "./images/cardimg-1.jpg",
+              "imgalt": "img-1 ",
+              "description": "Andhra Pradesh functions with the major objectives of providing and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State. ",
+              "title": "NSQ Drugs",
+              "button": "View More"
+            },
+            {
+              "imgsrc": "./images/cardimg-4.jpg",
+              "imgalt": "img-1 ",
+              "description": "Andhra Pradesh functions with the major objectives of providing and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State.  ",
+              "title": " Medical Stores",
+              "button": "View More"
+            }
+          ]
+        }
+      ],
+      "section4": [
+        {
+          "subsection1": [
+            {
+              "title": "News & Events ",
+              "paragraph": [
+                {
+                  "p": "Industrial Training Department (ITD)to the youths in Andhra Pradesh State. "
+                },
+                {
+                  "p": "Industrial Training Department (ITD)to the youths in Andhra Pradesh State. "
+                },
+                {
+                  "p": "Industrial Training Department (ITD)to the youths in Andhra Pradesh State. "
+                },
+                {
+                  "p": "Industrial Training Department (ITD)to the youths in Andhra Pradesh State. "
+                }
+              ],
+              "button": "View More",
+              "button_link": "about"
+            }
+          ],
+          "subsection2": [
+            {
+              "title": "Media Gallery",
+              "imgsrc": "./images/cardimg-1.jpg",
+              "imgalt": "image1",
+              "button": "View More",
+              "button_link": "dcaImages"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "menu2": [
+    {
+      "title": "Department",
+      "paragraph": [
+        {
+          "p": "Industrial Training Department (ITD), Andhra Pradesh functions with the major objectives of providing Skill and Apprenticeship Training to the youths in Andhra Pradesh State. To achieve these objectives the ITD runs a variety of skill training programmes in Industrial Training Institutes in the State. It also registers the youth for Apprenticeship training across various establishments in the state."
+        },
+        {
+          "p": "The Directorate of Training,  is working under the Department of Labour & , Government of Andhra Pradesh. It was formed in Andhra Pradesh State in 1970 by amalgamation of the Employment Wing, functioning under the Labour Commissionerate, and the Vocational Training Scheme under the Directorate of Technical Education. In the beginning, Industrial Training Institutes were functioning under direct control and supervision of the Director General of  Training (DGT), New Delhi, Ministry of  Government of India. Subsequently the administration of Industrial Training Institutes (dca) under the Craftsmen Training Schemes has been transferred to the State government."
+        },
+        {
+          "p": "The Industrial Department is the agency for implementation of Craftsman training Scheme (CTS) & Apprenticeship Training Scheme (ATS), major skill up- gradation schemes of the Director General of  Training (DGT) in the state. A host of new schemes are being implemented by the department throughout the state namely Centres of Excellence, PPP, Modular Employable etc which is transforming the skill development in the state of Andhra Pradesh."
+        },
+        {
+          "p": "Industrial Training Department (ITD), Andhra Pradesh functions with the major objectives of providing Skill and Apprenticeship Training to the youths in Andhra Pradesh State. To achieve these objectives the ITD runs a variety of skill training programmes in Industrial Training Institutes in the State. It also registers the youth for Apprenticeship training across various establishments in the state."
+        },
+        {
+          "p": "The Directorate of Training,  is working under the Department of Labour & , Government of Andhra Pradesh. It was formed in Andhra Pradesh State in 1970 by amalgamation of the Employment Wing, functioning under the Labour Commissionerate, and the Vocational Training Scheme under the Directorate of Technical Education. In the beginning, Industrial Training Institutes were functioning under direct control and supervision of the Director General of  Training (DGT), New Delhi, Ministry of  Government of India. Subsequently the administration of Industrial Training Institutes (dca) under the Craftsmen Training Schemes has been transferred to the State government."
+        },
+        {
+          "p": "The Industrial Department is the agency for implementation of Craftsman training Scheme (CTS) & Apprenticeship Training Scheme (ATS), major skill up- gradation schemes of the Director General of  Training (DGT) in the state. A host of new schemes are being implemented by the department throughout the state namely Centres of Excellence, PPP, Modular Employable etc which is transforming the skill development in the state of Andhra Pradesh."
+        }
+      ]
+    }
+  ],
+  "menu3": [
+    {
+      "title": "",
+      "apiurl": ""
+    }
+  ],
+  "menu4": [
+    {
+      "section1": [
+        {
+          "title": "Schemes of DCA",
+          "card": [
+            {
+              "imgsrc": "./images/cardimg-1.jpg",
+              "imgalt": "img-1 ",
+              "description": "Andhra Pradesh functions with the major objectives of providing and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State.",
+              "title": " Craftsmen Training",
+              "button": "View More"
+            },
+            {
+              "imgsrc": "./images/cardimg-2.jpg",
+              "imgalt": "img-1 ",
+              "description": "Andhra Pradesh functions with the major objectives of providing and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State. ",
+              "title": "Apprenticeship Training",
+              "button": "View More"
+            },
+            {
+              "imgsrc": "./images/cardimg-4.jpg",
+              "imgalt": "img-1 ",
+              "description": "Andhra Pradesh functions with the major objectives of providing and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State.  ",
+              "title": "Skill Development",
+              "button": "View More"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "menu5": [
+    {
+      "submenu1": [
+        {
+          "title": "",
+          "subtitle": ""
+        }
+      ]
+    }
+  ],
+  "menu6": [
+    {
+      "submenu1": [{}],
+      "submenu2": [{}],
+      "submenu3": [{}],
+      "submenu4": [{}]
+    }
+  ],
+  "menu7": [{}],
+  "menu8": [
+    {
+      "notification": " Application Form for Admission into the Industrial Training Institute for the session 2020 for Phase-4 "
+    }
+  ],
+
+  "footerlink": [
+    {
+      "title": "Website Policies",
+      "link": "dcawebsitepolicies"
+    },
+    {
+      "title": " Help",
+      "link": "dcahelp"
+    }
+  ],
+
+  "footer": [
+    {
+      "header": "Drugs Control Administration",
+      "subheader": "DCA © 2020",
+      "socialLinks": [
+        {
+          "icon": "social-icon-link facebook",
+          "link": "/",
+          "arialabel": "Facebook",
+          "target": "_blank",
+          "iconlink": "fa fa-facebook-f"
+        },
+        {
+          "icon": "social-icon-link instagram",
+          "link": "/",
+          "arialabel": "Instagram",
+          "target": "_blank",
+          "iconlink": "fa fa-instagram"
+        },
+        {
+          "icon": "social-icon-link youtube",
+          "link": "/",
+          "arialabel": "Youtube",
+          "target": "_blank",
+          "iconlink": "fa fa-youtube"
+        },
+        {
+          "icon": "social-icon-link twitter",
+          "link": "/",
+          "arialabel": "Twitter",
+          "target": "_blank",
+          "iconlink": "fa fa-twitter"
+        },
+        {
+          "icon": "social-icon-link linkedin",
+          "link": "/",
+          "arialabel": "Linkedin",
+          "target": "_blank",
+          "iconlink": "fa fa-linkedin"
+        }
+      ]
+    }
+  ],
+  "sitemap": [
+    {
+      "title": "Sitemap",
+      "header": [
+        {
+          "title": "Primary Menu",
+          "subheader": [
+            { "title": "Home", "link": "/home" },
+            { "title": "Aboutus", "link": "/about" },
+            { "title": "Schemes of dca", "link": "/schemes" },
+            { "title": "Trades", "link": "/trades" },
+            { "title": "Contact Us", "link": "/contact" }
+          ]
+        },
+        {
+          "title": "Login Menu",
+          "subheader": [
+            { "title": "Student Login", "link": "/studentLogin" },
+            { "title": "Employee Login", "link": "/employeeLogin" }
+          ]
+        },
+        {
+          "title": "Footer Menu",
+          "subheader": [
+            { "title": "dca", "link": "/home" },
+            { "title": "Icons", "link": "/home" }
+          ]
+        }
+      ]
+    }
+  ]
+}

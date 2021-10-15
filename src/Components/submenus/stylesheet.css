@@ -1,0 +1,29 @@
+.content >h3{
+    font-family: "Source Serif Pro", serif; 
+    font-weight: 600;
+    margin: 2rem;
+    
+} 
+
+.content >h5{
+    font-family: "Source Serif Pro", serif; 
+    font-weight: 600;   
+    font-style: italic; 
+    margin: 1rem;
+} 
+
+.subheader{
+    font-family: "Source Serif Pro", serif; 
+    font-weight: 400;
+    text-decoration: none;
+    padding:  0.5rem 0.2rem; 
+    color:black;   
+   
+}
+
+.subheader:hover{   
+    color:white;
+   
+    text-decoration: none;  
+    background-color: black;    
+}
